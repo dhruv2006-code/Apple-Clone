@@ -85,4 +85,10 @@ button{
     color: white;
     border: none;
     transition: 0.3s ease-in;
+    transform:translatey(-7px);
+}
+.learn:hover{
+    transform: TranslateY(-7px);
+    transition:0.3s ease-in;
+
 }
